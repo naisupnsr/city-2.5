@@ -1,0 +1,182 @@
+# depslib dependency file v1.0
+1558350036 source:c:\users\administrator\desktop\city25\function.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<graphics.h>
+	"player_s.h"
+	"player.h"
+	"LL.h"
+
+1556985088 source:c:\users\administrator\desktop\city25\node.cpp
+	<iostream>
+	"NODE.h"
+
+1556985088 c:\users\administrator\desktop\city25\node.h
+	<iostream>
+
+1558345835 source:c:\users\administrator\desktop\city25\ll.cpp
+	<iostream>
+	"player.h"
+	"LL.h"
+	"player_s.h"
+
+1558345835 c:\users\administrator\desktop\city25\ll.h
+	"player.h"
+
+1558345835 c:\users\administrator\desktop\city25\player.h
+	<iostream>
+
+1558349280 source:c:\users\administrator\desktop\city25\city_test.cpp
+	<iostream>
+	<graphics.h>
+	"LL.h"
+	"player.h"
+	"player_s.h"
+	<fstream>
+	"function.h"
+
+1556979874 c:\users\administrator\desktop\city25\function.cpp
+	<iostream>
+	<windows.h>
+
+1558342812 c:\users\administrator\desktop\city25\function.h
+
+1558345897 c:\users\administrator\desktop\city25\player_s.h
+	<iostream>
+	"player.h"
+
+1558345917 source:c:\users\administrator\desktop\city25\player_s.cpp
+	"player_s.h"
+	"function.h"
+	<iomanip>
+
+1558345862 source:c:\users\administrator\desktop\city25\player.cpp
+	<iostream>
+	<iomanip>
+	"player.h"
+	"function.h"
+
+1558551807 source:d:\city25\city_test.cpp
+	<iostream>
+	<cstdlib>
+	<graphics.h>
+	<windows.h>
+	<vector>
+	<sstream>
+	<string>
+	"LL.h"
+	"player.h"
+	"player_s.h"
+	<fstream>
+	"function.h"
+
+1558545956 d:\city25\ll.h
+	"player.h"
+
+1558549337 d:\city25\player.h
+	<iostream>
+
+1558549367 d:\city25\player_s.h
+	<iostream>
+	"player.h"
+
+1558541547 d:\city25\function.h
+
+1558552433 source:d:\city25\ll.cpp
+	<iostream>
+	"player.h"
+	"LL.h"
+	"player_s.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558550419 source:d:\city25\player.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<string.h>
+	"player.h"
+	"function.h"
+
+1558529536 source:d:\city25\player_s.cpp
+	"player_s.h"
+	"function.h"
+	<iomanip>
+	<fstream>
+
+1558545956 source:d:\city25\function.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<graphics.h>
+	"player_s.h"
+	"player.h"
+	"LL.h"
+
+1558669552 source:c:\users\administrator\desktop\lastest1\ll.cpp
+	<iostream>
+	"player.h"
+	"LL.h"
+	"player_s.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558626673 c:\users\administrator\desktop\lastest1\player.h
+	<iostream>
+
+1558669552 c:\users\administrator\desktop\lastest1\ll.h
+	"player.h"
+
+1558626673 c:\users\administrator\desktop\lastest1\player_s.h
+	<iostream>
+	"player.h"
+
+1558671937 source:c:\users\administrator\desktop\lastest1\city_test.cpp
+	<iostream>
+	<cstdlib>
+	<graphics.h>
+	<windows.h>
+	<vector>
+	<sstream>
+	<cstdio>
+	<algorithm>
+	<string>
+	"LL.h"
+	"player.h"
+	"player_s.h"
+	<fstream>
+	<iomanip>
+	"function_g.h"
+
+1558625283 c:\users\administrator\desktop\lastest1\function_g.h
+
+1558626673 source:c:\users\administrator\desktop\lastest1\player.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<string.h>
+	"player.h"
+	"function_g.h"
+
+1558625283 source:c:\users\administrator\desktop\lastest1\player_s.cpp
+	"player_s.h"
+	"function_g.h"
+	<iomanip>
+	<fstream>
+
+1558671937 source:c:\users\administrator\desktop\lastest1\function_g.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<graphics.h>
+	<cstdio>
+	<string>
+	<vector>
+	<algorithm>
+	"player_s.h"
+	"player.h"
+	"LL.h"
+
